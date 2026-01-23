@@ -1,0 +1,28 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet / SDK
+project.assets.json
+project.lock.json
+artifacts/
+*.nupkg
+*.snupkg
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.rsuser
+
+# Logs & temp
+*.log
+Logs/
+
+# OS
+Thumbs.db
+.DS_Store
