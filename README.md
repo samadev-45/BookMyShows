@@ -1,4 +1,4 @@
-Movie Seat Booking – Backend System
+Movie Seat Booking –  Backend System
 
 This project implements a backend system responsible for managing movie show seat availability and booking behavior, focusing on correctness, concurrency safety, and reliability. It is built using ASP.NET Core with Entity Framework Core (Code First) and SQL Server.
 
